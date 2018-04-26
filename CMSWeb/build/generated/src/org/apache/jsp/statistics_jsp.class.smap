@@ -1,0 +1,16 @@
+SMAP
+statistics_jsp.java
+JSP
+*S JSP
+*F
++ 0 statistics.jsp
+statistics.jsp
+*L
+5,19:48
+24,32:68
+55,61:100
+116:161,3
+117,29:164
+145,8:193
+152,28:201
+*E
